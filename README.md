@@ -1,24 +1,39 @@
-# Marketing Skills
+# Marketing for Technical People
 
-A collection of skills and guidelines for AI tools — writing, research, and more.
+A small collection of practical checks for people building marketing assets without a marketer in the room.
 
-## Available Skills
+This started as a resource for my team.
 
-| File | Description |
-|------|-------------|
-| [universal-ai-writing-rules.md](./universal-ai-writing-rules.md) | Rules to avoid obvious AI patterns in all forms of writing |
-| [ai-website-frontend-tells.md](./ai-website-frontend-tells.md) | Checklist to clean up AI-built websites (copy, design, code quality) |
+I was basically like, **“If you're building a website, landing page, copy, or other marketing asset with AI and you're not going to ask me to review it first, at least run it through these.”**
 
-## How to Use
+*(In a super nice way, of course.)*
 
-Fetch the raw URL in any AI chat:
+The goal isn't to turn technical people into marketers. It's to catch the obvious stuff: sloppy AI writing, generic website patterns, weak copy, and other things that make otherwise solid work feel unfinished.
 
+## What's here
+
+| File | What it's for |
+|------|---------------|
+| [universal-ai-writing-rules.md](./universal-ai-writing-rules.md) | Cleaning up common AI-writing patterns before publishing |
+| [ai-website-frontend-tells.md](./ai-website-frontend-tells.md) | Reviewing AI-built websites for common copy, design, and frontend tells |
+
+## How I add to this
+
+I only add workflows when I've actually needed them.
+
+So this repo will probably grow slowly.
+
+I'd rather have a few checks that are useful in real work than a giant library of marketing workflows I've never tested.
+
+## How to use
+
+Give your AI tool the raw file URL and ask it to review your work against the rules.
+
+```text
+https://raw.githubusercontent.com/Seethe-cat/marketing-for-technical-people/main/universal-ai-writing-rules.md
+
+https://raw.githubusercontent.com/Seethe-cat/marketing-for-technical-people/main/ai-website-frontend-tells.md
 ```
-https://raw.githubusercontent.com/Seethe-cat/marketing-skills/main/universal-ai-writing-rules.md
-https://raw.githubusercontent.com/Seethe-cat/marketing-skills/main/ai-website-frontend-tells.md
-```
-
-Or ask the AI to fetch and follow the rules from the URLs above.
 
 ## Credits
 
@@ -26,4 +41,4 @@ The Universal AI Writing Rules were originally shared by Tom Orbach in his newsl
 
 ---
 
-**Author:** [Sidikat Olajuwon](https://www.linkedin.com/in/sidikatolajuwon/)
+Built by [Sidikat Olajuwon](https://www.linkedin.com/in/sidikatolajuwon/)
