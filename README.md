@@ -4,7 +4,7 @@ A small collection of practical checks for people building marketing assets with
 
 This started as a resource for my team.
 
-I was basically like, **“If you're building a website, landing page, copy, or other marketing asset with AI and you're not going to ask me to review it first, at least run it through these.”**
+I was basically like, **“If you're building a website, landing page, or other marketing asset with AI and you're not going to ask me to review it first, at least run it through these.”**
 
 *(In a super nice way, of course.)*
 
