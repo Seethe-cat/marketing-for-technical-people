@@ -27,7 +27,10 @@ I'd rather have a few checks that are useful in real work than a giant library o
 
 ## How to use
 
-Give your AI tool the raw file URL and ask it to review your work against the rules.
+You can:
+- paste the file into your AI chat
+- attach/download the file
+- give the AI the GitHub or raw file URL if it can access public links
 
 ```text
 https://raw.githubusercontent.com/Seethe-cat/marketing-for-technical-people/main/universal-ai-writing-rules.md
